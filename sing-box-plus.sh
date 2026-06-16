@@ -2,8 +2,6 @@
 # ============================================================
 #  Sing-Box-Plus 管理脚本（20 节点：直连 10 + WARP 10）
 #  Version: v4.6.1
-#  author：Alvin9999
-#  Repo: https://github.com/Alvin9999-newpac/Sing-Box-Plus
 # ============================================================
 
 set -Eeuo pipefail
